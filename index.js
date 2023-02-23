@@ -1,5 +1,5 @@
-class Car {#
-    engine;
+class Car {
+    #engine;
     constructor({ brand, model, price, engine }) {
         this.brand = brand;
         this.model = model;
